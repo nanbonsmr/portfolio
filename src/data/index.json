@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I use different techstacks to develop modern user-interfaces. I like to use Reactjs, html, css, tailwindcss and other techstacks. "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Back-End is the key in programming I use d/t backend techs like Nextjs, Nodejs, PHP, express and Database like Mysql and MongoDB"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI & UX Design is the first of coding to attract the user attention I use Figma and Adobe Photoshop to create modern UI & UX Design."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Web Maintenance & SEO Optimization",
+      "description": "In addition to Development I make Web Maintenance and SEO optimization to rank #1 in Google search engine and other "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "AI Summarizer",
+      "description": "This project is open-source used to help user to read summary insted of reading all content like blog, article and other.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Blog Web",
+      "description": "This is a blog website that user can read different blogs and admin can add, edit, delete and update posts(crud operation).",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Figma clone",
+      "description": "This project is like figme user can make different Design such as Poster, Business card, Website and other simple designs.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "His attention to detail and problem-solving skills made our website development seamless",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Nanbon delivered our project on time with exceptional quality. Highly recommend his expertise!",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Nanbon can sutisfies client needs without any conflict in frendly and polite way.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
